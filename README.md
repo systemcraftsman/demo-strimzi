@@ -1,5 +1,18 @@
-# Webinar: Run Apache Kafka on Kubernetes with Red Hat AMQ Streams
+<h1 align="center">Welcome to Strimzi/AMQ Streams Demo 👋</h1>
+<p>
+  <a href="https://twitter.com/systemcraftsman">
+    <img alt="Twitter: systemcraftsman" src="https://img.shields.io/twitter/follow/systemcraftsman.svg?style=social" target="_blank" />
+  </a>
+</p>
 
-This repository contains the demo for the webinar _Run Apache Kafka on Kubernetes with Red Hat AMQ Streams_ on 29th November 2018. It shows how to run Apache Kafka on Kubernetes and OpenShift using the [Strimzi Kafka operator](http://strimzi.io) and using [Red Hat AMQ Streams](https://access.redhat.com/products/red-hat-amq).
+> Hands-on demo material for Strimzi/AMQ Streams originally created by @scholzj
 
-You can watch the webinar on demand [here](https://www.redhat.com/en/events/webinar/run-apache-kafka-kubernetes-red-hat-amq-streams).
+* Twitter: [@systemcraftsman](https://twitter.com/systemcraftsman)
+* Github: [@mabulgu](https://github.com/mabulgu)
+
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+***
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
