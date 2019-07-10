@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MessageConsumerSSL",
+            "request": "launch",
+            "mainClass": "cz.scholz.kafka.kafkaclients.MessageConsumerSSL",
+            "projectName": "kafka-clients"
+        }
+    ]
+}

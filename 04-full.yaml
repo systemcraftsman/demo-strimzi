@@ -20,8 +20,9 @@ spec:
       superUsers:
         - CN=my-super-user
     storage:
-      type: persistent-claim
-      size: 100Gi
+      type: ephemeral
+   #  type: persistent-claim
+   #  size: 10Gi
     config:
       # change default segment size
       log.segment.bytes: 104857600
@@ -139,8 +140,9 @@ spec:
   zookeeper:
     replicas: 1
     storage:
-      type: persistent-claim
-      size: 100Gi
+      type: ephemeral
+   #  type: persistent-claim
+   #  size: 10Gi
     resources:
       requests:
         memory: 1Gi

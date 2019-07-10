@@ -10,11 +10,13 @@ spec:
     listeners:
       plain: {}
     storage:
-      type: persistent-claim
-      size: 100Gi
+      type: ephemeral
+   #  type: persistent-claim
+   #  size: 10Gi
   zookeeper:
     replicas: 1
     storage:
-      type: persistent-claim
-      size: 100Gi
+      type: ephemeral
+   #  type: persistent-claim
+   #  size: 10Gi
 
