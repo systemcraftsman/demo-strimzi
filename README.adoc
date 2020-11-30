@@ -1,7 +1,5 @@
 ==== Steps:
 
-TODO: add each step's desc.
-
 
 [source,shell]
 ----
